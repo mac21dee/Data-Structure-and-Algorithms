@@ -80,6 +80,7 @@ int main()
 {
     class Stack s;
     // input string
+    cout<<"Enter string consisting of only parenthesis :"<<endl;
     string parenthesis;
     cin>>parenthesis;
     bool poss = true;

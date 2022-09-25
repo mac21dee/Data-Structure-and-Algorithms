@@ -96,7 +96,7 @@ int main()
             string st;
             cin>>st;
             s.push(st);
-            cout<<st<<" pushed into the stack"<<endl;
+            // cout<<st<<" pushed into the stack"<<endl;
             
         }
         else if(x==2){
